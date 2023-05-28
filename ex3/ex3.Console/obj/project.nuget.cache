@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1q0at7YXTARyY153mEWEm93kTtURSKbCa6qYieMHolust2ds0HRxQxuTCQ7fch68g3pYygxrxiCUFzcLITjt/A==",
+  "success": true,
+  "projectFilePath": "/home/natan/www/jp/uc1_17/ex3/ex3.Console/ex3.Console.csproj",
+  "expectedPackageFiles": [
+    "/home/natan/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

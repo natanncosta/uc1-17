@@ -1,0 +1,16 @@
+/home/natan/www/jp/uc1_17/ex2/bin/Debug/net5.0/ex2
+/home/natan/www/jp/uc1_17/ex2/bin/Debug/net5.0/ex2.deps.json
+/home/natan/www/jp/uc1_17/ex2/bin/Debug/net5.0/ex2.runtimeconfig.json
+/home/natan/www/jp/uc1_17/ex2/bin/Debug/net5.0/ex2.runtimeconfig.dev.json
+/home/natan/www/jp/uc1_17/ex2/bin/Debug/net5.0/ex2.dll
+/home/natan/www/jp/uc1_17/ex2/bin/Debug/net5.0/ex2.pdb
+/home/natan/www/jp/uc1_17/ex2/obj/Debug/net5.0/ex2.csproj.AssemblyReference.cache
+/home/natan/www/jp/uc1_17/ex2/obj/Debug/net5.0/ex2.GeneratedMSBuildEditorConfig.editorconfig
+/home/natan/www/jp/uc1_17/ex2/obj/Debug/net5.0/ex2.AssemblyInfoInputs.cache
+/home/natan/www/jp/uc1_17/ex2/obj/Debug/net5.0/ex2.AssemblyInfo.cs
+/home/natan/www/jp/uc1_17/ex2/obj/Debug/net5.0/ex2.csproj.CoreCompileInputs.cache
+/home/natan/www/jp/uc1_17/ex2/obj/Debug/net5.0/ex2.dll
+/home/natan/www/jp/uc1_17/ex2/obj/Debug/net5.0/refint/ex2.dll
+/home/natan/www/jp/uc1_17/ex2/obj/Debug/net5.0/ex2.pdb
+/home/natan/www/jp/uc1_17/ex2/obj/Debug/net5.0/ex2.genruntimeconfig.cache
+/home/natan/www/jp/uc1_17/ex2/obj/Debug/net5.0/ref/ex2.dll
